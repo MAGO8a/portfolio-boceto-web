@@ -62,7 +62,7 @@ export function HeroSection() {
             </div>
             <div className="p-3">
               <img
-                src="/professional-pencil-sketch-portrait-of-a-young-mal.jpg"
+                src="/perfil.png"
                 alt="Retrato de Marco Antonio Gonzalez Ochoa"
                 className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-lg grayscale hover:grayscale-0 transition-all duration-500"
               />
